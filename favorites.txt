@@ -5,3 +5,4 @@ Kannada: Kantara
 Tamil: Vikram
 Telugu: RRR
 Tamil: Basha
+English: Narnia
