@@ -4,3 +4,4 @@ Vada Pav
 Kannada: Kantara
 Tamil: Vikram
 Telugu: RRR
+Tamil: Basha
