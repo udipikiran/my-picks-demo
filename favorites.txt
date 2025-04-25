@@ -1,6 +1,7 @@
 Golgappa / Pani Puri
 Pav Bhaji
 Vada Pav
+Telugu: Kick 
 Kannada: Kantara
 Tamil: Vikram
 Telugu: RRR
@@ -14,3 +15,5 @@ Pani puri
 Gadbad
 Pasta
 Noodles
+Hindi: DDLJ
+Hindi: Duplicate
