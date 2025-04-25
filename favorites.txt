@@ -17,3 +17,4 @@ Pasta
 Noodles
 Hindi: DDLJ
 Hindi: Duplicate
+Hindi: KANK
